@@ -1,6 +1,6 @@
 # Hi there, I'm Dylan!👋
 
-### 🎓 Graduate Biomedical Engineer | Master’s from The University of Melbourne (2025)
+### 🎓 Biomedical Engineer, GradIEAust | Master’s from The University of Melbourne (2025)
 
 I am a methodical Biomedical Engineer driven by a curiosity to understand how complex systems work—whether that's a medical device, a dataset, or a line of code. My goal is to be the bridge between sophisticated engineering and real-world clinical impact. I believe in continuous growth and am currently looking for my next challenge in the healthcare industry.
 
