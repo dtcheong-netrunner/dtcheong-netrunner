@@ -28,4 +28,4 @@ I am a methodical Biomedical Engineer driven by a curiosity to understand how co
 ---
 
 ### ⚡ Fun Fact
-When I’m not coding or building a MedTech prototype, I’m likely assembling high-fidelity **GunPla** model kits or maintaining PC hardware. I’ve found that the manual dexterity and patience required for intricate model building translates perfectly to the precision needed for troubleshooting biomedical devices. I also enjoy going for hikes, running, and swimming and most of all love scuba diving so hit me up if you enjoy sealife too! 🌊
+When I’m not coding or building a MedTech prototype, I’m likely assembling high-fidelity **GunPla** model kits or maintaining PC hardware. I’ve found that the manual dexterity and patience required for intricate model building translates perfectly to the precision needed for troubleshooting biomedical devices. I also enjoy going for hikes, running, and swimming and most of all love scuba diving so hit me up if you enjoy the sealife too! 🌊
