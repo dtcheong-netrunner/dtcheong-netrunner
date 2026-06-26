@@ -5,7 +5,7 @@
 I am a methodical Biomedical Engineer driven by a curiosity to understand how complex systems work, be it a medical device, a dataset, or lines of code. My goal is to be the bridge between sophisticated engineering and making real-world clinical impact. I believe in continuous growth and am currently looking for my next challenge in the healthcare industry.
 
 ### 🚀 What I’m Up To
-- **🔭 Currently:** Actively seeking a role in the healthcare/MedTech space where I can contribute to patient safety and learn from industry-leading engineers and researchers.
+- **🔭 Currently:** Working as a Production Engineering Intern while actively seeking a role in the healthcare/MedTech space where I can contribute to patient safety and learn from industry-leading engineers and researchers.
 - **🌱 Learning:** Expanding my foundation in **C++** and refining my proficiency in **Python** and **RStudio** through hardware-software integration in passion projects.
 - **👯 Collaboration:** I’m eager to collaborate on open-source solutions for societal challenges, particularly those focused on healthcare accessibility and medical instrumentation.
 - **🤔 Seeking:** Connections with professionals in the MedTech, clinical engineering, and digital health space. I'd love to chat about mentorship or industry trends over a virtual coffee!
